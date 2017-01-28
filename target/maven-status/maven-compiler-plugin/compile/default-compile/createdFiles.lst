@@ -1,0 +1,7 @@
+com\rpicloud\controllers\RequestWrapper.class
+com\rpicloud\dao\PieDao.class
+com\rpicloud\repositories\PieRepository.class
+com\rpicloud\models\A.class
+com\rpicloud\models\Pie.class
+com\rpicloud\repositories\ARepository.class
+com\rpicloud\controllers\PieRestController.class
