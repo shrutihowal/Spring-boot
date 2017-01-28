@@ -67,5 +67,7 @@ public class Subscription {
 	public void setUserGroupId(String userGroupId) {
 		this.userGroupId = userGroupId;
 	}
+	
+	
 
 }
